@@ -3,7 +3,7 @@ Culturally Competent Human Activity Recognition with a Pepper Robot
 
 # Contents
  - [:blue_book: The general idea](#blue_book-the-general-idea)
- - [:file_folder: Folders](#running-using-the-software)
+ - [:file_folder: Folders](#file_folder-folders)
  - [:information_source: Further information](#information-source-further-information)
  - [:page_facing_up: References](page_facing_up-references)
 
