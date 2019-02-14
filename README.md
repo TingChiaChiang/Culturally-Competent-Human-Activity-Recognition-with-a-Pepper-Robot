@@ -1,4 +1,4 @@
-# Project Title
+# Project Title (Under Construction)
 Culturally Competent Human Activity Recognition with a Pepper Robot
 
 # Contents
