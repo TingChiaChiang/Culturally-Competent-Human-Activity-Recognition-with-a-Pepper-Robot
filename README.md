@@ -24,8 +24,8 @@ You should have a folder with the following subfolders in it:
 * ontology - Contains Ontology file encoded representation of activities-related knowledge
 * pepper_package - Contains a package which allows users to call the cloud vision services on Pepper
 * src - Contains all the source code of the culturally competent HAR system
-
-
+                                  
+# :information_source: Further information
 
 Some important files are:
 
@@ -52,5 +52,3 @@ Some important files are:
 (3). Compile above files together
 
 * src/compile.sh----------------------------- Script to compile and link everything and run the executable file "my_program"
-                                  
-# :information_source: Further information
