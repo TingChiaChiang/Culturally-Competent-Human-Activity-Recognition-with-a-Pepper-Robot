@@ -22,8 +22,8 @@ You should have a folder with the following subfolders in it:
 * api_result - Results of google and microsoft vision api
 * dataset - Contains training dataset and testing dataset
 * doc - Documentation might be useful for users
-image ------------------------------------- Images taken from Pepper robot or any image that users want it to be recognized
-include ----------------------------------- Header file
+* image ------------------------------------- Images taken from Pepper robot or any image that users want it to be recognized
+* include ----------------------------------- Header file
 netica_output ----------------------------- Results of HAR; there are two files: Netica_output.csv and Netica_output.txt
 ontology ---------------------------------- Contains Ontology file encoded representation of activities-related knowledge
 pepper_package ---------------------------- Contains a package which allows users to call the cloud vision services on Pepper
