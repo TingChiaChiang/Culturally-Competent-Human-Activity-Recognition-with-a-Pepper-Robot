@@ -1,5 +1,11 @@
+# Contents
+ - [:orange_book: The general idea](#orange_book-the-general-idea)
+ - [:running: Using the software](#running-using-the-software)
+ - [:information_source: Further information](information-source-further-information)
 
+# :orange_book: The general idea
 
+# :running: Using the software
 You should have a folder with the following subfolders in it:
 
 api_result -------------------------------- Results of google and microsoft vision api
@@ -41,4 +47,4 @@ src/google_micro_api.py ------------------- Cloud vision module for sending imag
 
 src/compile.sh----------------------------- Script to compile and link everything and run the executable file "my_program"
                                   
-
+ - [:information_source: Further information](information-source-further-information)
