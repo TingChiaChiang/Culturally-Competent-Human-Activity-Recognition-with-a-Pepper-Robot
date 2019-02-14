@@ -53,4 +53,4 @@ Some important files are:
 
 * src/compile.sh----------------------------- Script to compile and link everything and run the executable file "my_program"
                                   
- - [:information_source: Further information](information-source-further-information)
+# :information_source: Further information
