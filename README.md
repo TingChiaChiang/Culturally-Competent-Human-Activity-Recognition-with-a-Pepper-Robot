@@ -1,4 +1,4 @@
-# Project Title (Under Construction)
+# Project Title
 Culturally Competent Human Activity Recognition with a Pepper Robot
 
 # Contents
@@ -8,7 +8,7 @@ Culturally Competent Human Activity Recognition with a Pepper Robot
  - [:page_facing_up: References](#page_facing_up-references)
 
 # :blue_book: The general idea
-This culturally-competent HAR module is designed, developed and tested on a robot Pepper. It relies on an ontology-based framework (with Protégé) for the representation of activities-related knowledge, a Bayesian Network for reasoning (with Netica), and online version services (Google cloud vision dervice and Microsoft custom vision service) for the semantic labeling of images and scene classification.
+This culturally-competent HAR module was designed, developed and tested on a robot Pepper. It relies on an ontology-based framework (with Protégé) for the representation of activities-related knowledge, a Bayesian Network for reasoning (with Netica), and online version services (Google cloud vision service and Microsoft custom vision service) for the semantic labeling of images and scene classification.
 
 
 
