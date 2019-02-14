@@ -3,7 +3,7 @@ Culturally Competent Human Activity Recognition with a Pepper Robot
 
 # Contents
  - [:blue_book: The general idea](#blue_book-the-general-idea)
- - [:running: Using the software](#running-using-the-software)
+ - [:file_folder: Folders](#running-using-the-software)
  - [:information_source: Further information](information-source-further-information)
 
 # :blue_book: The general idea
@@ -11,17 +11,17 @@ This culturally-competent HAR module is designed, developed and tested on a robo
 
 
 
-# :running: 
+# :file_folder: Folders
 You should have a folder with the following subfolders in it:
 
 
 * api_result - Results of google and microsoft vision api
 * dataset - Contains training dataset and testing dataset
 * doc - Documentation might be useful for users
-* image  Images taken from Pepper robot or any image that users want it to be recognized
-* include ----------------------------------- Header file
-netica_output ----------------------------- Results of HAR; there are two files: Netica_output.csv and Netica_output.txt
-ontology ---------------------------------- Contains Ontology file encoded representation of activities-related knowledge
+* image - Images taken from Pepper robot or any image that users want it to be recognized
+* include - Header file
+* netica_output - Results of HAR; there are two files: Netica_output.csv and Netica_output.txt
+* ontology - Contains Ontology file encoded representation of activities-related knowledge
 pepper_package ---------------------------- Contains a package which allows users to call the cloud vision services on Pepper
 src --------------------------------------- Contains all the source code of the culturally competent HAR system
 
