@@ -19,7 +19,7 @@ This culturally-competent HAR module is designed, developed and tested on a robo
 You should have a folder with the following subfolders in it:
 
 
-* [api_result] - Results of google and microsoft vision api
+* api_result - Results of google and microsoft vision api
 
 
 api_result -------------------------------- Results of google and microsoft vision api
