@@ -1,15 +1,26 @@
 # Project Title (Under Construction)
 Culturally Competent Human Activity Recognition with a Pepper Robot
 
+
+
+
+
 # Contents
  - [:orange_book: The general idea](#orange_book-the-general-idea)
  - [:running: Using the software](#running-using-the-software)
  - [:information_source: Further information](information-source-further-information)
 
 # :orange_book: The general idea
+This culturally-competent HAR module is designed, developed and tested on a robot Pepper. It relies on an ontology-based framework (with Protégé) for the representation of activities-related knowledge, a Bayesian Network for reasoning (with Netica), and online version services (Google cloud vision dervice and Microsoft custom vision service) for the semantic labeling of images and scene classification.
+
+
 
 # :running: Using the software
 You should have a folder with the following subfolders in it:
+
+
+* [api_result] - Results of google and microsoft vision api
+
 
 api_result -------------------------------- Results of google and microsoft vision api
 dataset --------------------------- ------- Contains training dataset and testing dataset
@@ -32,7 +43,7 @@ src/bn_functions.c ------------------------ Functions used in bn_netica.c
 include/bn_functions.h -------------------- Header file for bn_functions.c
 src/caresses.py --------------------------- Ontology information loaded from Caresses.owl. 
                                             This file is imported in bn_functions.c for the integration of Bayesian Network 
-                                            and Ontology in culturally competent HAR system
+                                            and ontology in culturally competent HAR system
 
 
 (2). Cloud vision services + Robot control
