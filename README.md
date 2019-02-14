@@ -31,10 +31,10 @@ Some important files are:
 
 (1). Ontology-based framework for the representation of activities-related knowledge + Bayesian Network for reasoning
 
-*src/bn_netica.c ----------------------------Source code file of the proposed Bayesian Network in Netica-C
-*src/bn_functions.c ------------------------ Functions used in bn_netica.c
-*include/bn_functions.h -------------------- Header file for bn_functions.c
-*src/caresses.py --------------------------- Ontology information loaded from Caresses.owl. 
+* src/bn_netica.c ----------------------------Source code file of the proposed Bayesian Network in Netica-C
+* src/bn_functions.c ------------------------ Functions used in bn_netica.c
+* include/bn_functions.h -------------------- Header file for bn_functions.c
+* src/caresses.py --------------------------- Ontology information loaded from Caresses.owl. 
                                             This file is imported in bn_functions.c for the integration of Bayesian Network 
                                             and ontology in culturally competent HAR system
 
