@@ -1,28 +1,24 @@
 # Project Title (Under Construction)
 Culturally Competent Human Activity Recognition with a Pepper Robot
 
-
-
-
-
 # Contents
- - [:orange_book: The general idea](#orange_book-the-general-idea)
+ - [:blue_book: The general idea](#blue_book-the-general-idea)
  - [:running: Using the software](#running-using-the-software)
  - [:information_source: Further information](information-source-further-information)
 
-# :orange_book: The general idea
+# :blue_book: The general idea
 This culturally-competent HAR module is designed, developed and tested on a robot Pepper. It relies on an ontology-based framework (with Protégé) for the representation of activities-related knowledge, a Bayesian Network for reasoning (with Netica), and online version services (Google cloud vision dervice and Microsoft custom vision service) for the semantic labeling of images and scene classification.
 
 
 
-# :running: Using the software
+# :running: 
 You should have a folder with the following subfolders in it:
 
 
 * api_result - Results of google and microsoft vision api
 * dataset - Contains training dataset and testing dataset
 * doc - Documentation might be useful for users
-* image ------------------------------------- Images taken from Pepper robot or any image that users want it to be recognized
+* image  Images taken from Pepper robot or any image that users want it to be recognized
 * include ----------------------------------- Header file
 netica_output ----------------------------- Results of HAR; there are two files: Netica_output.csv and Netica_output.txt
 ontology ---------------------------------- Contains Ontology file encoded representation of activities-related knowledge
