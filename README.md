@@ -1,3 +1,6 @@
+# Project Title
+Culturally Competent Human Activity Recognition with a Pepper Robot
+
 # Contents
  - [:orange_book: The general idea](#orange_book-the-general-idea)
  - [:running: Using the software](#running-using-the-software)
