@@ -51,4 +51,4 @@ Some important files are:
 
 (3). Compile above files together
 
-* src/compile.sh----------------------------- Script to compile and link everything and run the executable file "my_program"
+* src/compile.sh ---------------------------- Script to compile and link everything and run the executable file "my_program"
