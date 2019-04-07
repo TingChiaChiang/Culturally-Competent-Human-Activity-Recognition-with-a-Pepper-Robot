@@ -1,5 +1,4 @@
-# Project Title
-Culturally Competent Human Activity Recognition with a Pepper Robot
+# Culturally Competent Human Activity Recognition with a Pepper Robot
 
 # Contents
  - [:blue_book: The general idea](#blue_book-the-general-idea)
