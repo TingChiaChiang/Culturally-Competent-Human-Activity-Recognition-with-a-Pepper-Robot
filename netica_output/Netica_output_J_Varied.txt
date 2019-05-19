@@ -1,0 +1,964 @@
+
+------------Image 0------------ 
+Culture node info:
+Japanese
+
+Time node info:
+SIXPM
+
+Object Nodes Info:
+None
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.176007
+(only based on init setting) The probability that now he or she is  P_EATING is  0.454993
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.172342
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0.003388
+(only based on init setting) The probability that now he or she is  P_READING is  0.081952
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0.062832
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0.048486
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.00116711
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.260423
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.281461
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.204357
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.24769
+(After Microsoft) The probability that now he or she is in PUJAROOM is  0.00490267
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.15497
+(After Microsoft) The probability that now he or she is  P_EATING is  0.837826
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.000721701
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0.0048708
+(After Microsoft) The probability that now he or she is  P_READING is  0.000788309
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0.000575951
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0.000246933
+
+------------Image 1------------ 
+Culture node info:
+Japanese
+
+Time node info:
+SIXPM
+
+Object Nodes Info:
+None
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.176007
+(only based on init setting) The probability that now he or she is  P_EATING is  0.454993
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.172342
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0.003388
+(only based on init setting) The probability that now he or she is  P_READING is  0.081952
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0.062832
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0.048486
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.00191166
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.00828782
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.32339
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.657528
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.00866063
+(After Microsoft) The probability that now he or she is in PUJAROOM is  0.000221694
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.975047
+(After Microsoft) The probability that now he or she is  P_EATING is  0.01213
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.000995541
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0.000177723
+(After Microsoft) The probability that now he or she is  P_READING is  0.00988618
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0.0010962
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0.000667229
+
+------------Image 2------------ 
+Culture node info:
+Japanese
+
+Time node info:
+SIXPM
+
+Object Nodes Info:
+GLASS
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.176007
+(only based on init setting) The probability that now he or she is  P_EATING is  0.454993
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.172342
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0.003388
+(only based on init setting) The probability that now he or she is  P_READING is  0.081952
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0.062832
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0.048486
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.002603
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.0927727
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.310292
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.505671
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.0885591
+(After Microsoft) The probability that now he or she is in PUJAROOM is  0.000102304
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.699944
+(After Microsoft) The probability that now he or she is  P_EATING is  0.292631
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.000815853
+(After Microsoft) The probability that now he or she is  P_PRAYING is  6.62695e-05
+(After Microsoft) The probability that now he or she is  P_READING is  0.00429078
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0.00193472
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0.000316663
+
+------------Image 3------------ 
+Culture node info:
+Japanese
+
+Time node info:
+SIXPM
+
+Object Nodes Info:
+None
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.176007
+(only based on init setting) The probability that now he or she is  P_EATING is  0.454993
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.172342
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0.003388
+(only based on init setting) The probability that now he or she is  P_READING is  0.081952
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0.062832
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0.048486
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.00151328
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.0678434
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.31576
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.550073
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.0645446
+(After Microsoft) The probability that now he or she is in PUJAROOM is  0.000265532
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.779972
+(After Microsoft) The probability that now he or she is  P_EATING is  0.217056
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.000863265
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0.000227404
+(After Microsoft) The probability that now he or she is  P_READING is  0.000787548
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0.000806162
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0.000287483
+
+------------Image 4------------ 
+Culture node info:
+Japanese
+
+Time node info:
+SIXPM
+
+Object Nodes Info:
+None
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.176007
+(only based on init setting) The probability that now he or she is  P_EATING is  0.454993
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.172342
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0.003388
+(only based on init setting) The probability that now he or she is  P_READING is  0.081952
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0.062832
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0.048486
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.00166019
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.0938061
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.310031
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.504687
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.0895692
+(After Microsoft) The probability that now he or she is in PUJAROOM is  0.000246087
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.698118
+(After Microsoft) The probability that now he or she is  P_EATING is  0.293862
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.000822751
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0.000209748
+(After Microsoft) The probability that now he or she is  P_READING is  0.00528014
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0.000986262
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0.000720336
+
+cook_score:3.308052
+eat_score:1.653506
+others_score:0.004219
+pray_score:0.005552
+read_score:0.021033
+shower_score:0.005399
+sleep_score:0.002239
+
+------------Image 0------------ 
+Culture node info:
+Japanese
+
+Time node info:
+TWELVEPM
+
+Object Nodes Info:
+None
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.181824
+(only based on init setting) The probability that now he or she is  P_EATING is  0.603176
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.215
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.00054416
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.279516
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.227133
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.226964
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.265814
+(After Microsoft) The probability that now he or she is in PUJAROOM is  2.9342e-05
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.172969
+(After Microsoft) The probability that now he or she is  P_EATING is  0.826457
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.000573502
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0
+
+------------Image 1------------ 
+Culture node info:
+Japanese
+
+Time node info:
+TWELVEPM
+
+Object Nodes Info:
+None
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.181824
+(only based on init setting) The probability that now he or she is  P_EATING is  0.603176
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.215
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.000574959
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.325994
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.213374
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.150012
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.310014
+(After Microsoft) The probability that now he or she is in PUJAROOM is  3.10027e-05
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.0355125
+(After Microsoft) The probability that now he or she is  P_EATING is  0.963881
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.000605962
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0
+
+------------Image 2------------ 
+Culture node info:
+Japanese
+
+Time node info:
+TWELVEPM
+
+Object Nodes Info:
+None
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.181824
+(only based on init setting) The probability that now he or she is  P_EATING is  0.603176
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.215
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.00036337
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.33035
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.212155
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.142955
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.314157
+(After Microsoft) The probability that now he or she is in PUJAROOM is  1.95935e-05
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.0228558
+(After Microsoft) The probability that now he or she is  P_EATING is  0.976761
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.000382964
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0
+
+------------Image 3------------ 
+Culture node info:
+Japanese
+
+Time node info:
+TWELVEPM
+
+Object Nodes Info:
+None
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.181824
+(only based on init setting) The probability that now he or she is  P_EATING is  0.603176
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.215
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.000351308
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.337131
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.210153
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.131741
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.320605
+(After Microsoft) The probability that now he or she is in PUJAROOM is  1.89431e-05
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.00281976
+(After Microsoft) The probability that now he or she is  P_EATING is  0.99681
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.000370251
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0
+
+------------Image 4------------ 
+Culture node info:
+Japanese
+
+Time node info:
+TWELVEPM
+
+Object Nodes Info:
+None
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.181824
+(only based on init setting) The probability that now he or she is  P_EATING is  0.603176
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.215
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.000364313
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.328786
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.212617
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.145544
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.312669
+(After Microsoft) The probability that now he or she is in PUJAROOM is  1.96443e-05
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.0274808
+(After Microsoft) The probability that now he or she is  P_EATING is  0.972135
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.000383957
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0
+
+cook_score:0.261638
+eat_score:4.736045
+others_score:0.002317
+pray_score:0.000000
+read_score:0.000000
+shower_score:0.000000
+sleep_score:0.000000
+
+------------Image 0------------ 
+Culture node info:
+Japanese
+
+Time node info:
+NINEPM
+
+Object Nodes Info:
+FURNITURE
+WINDOW
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.0335626
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.40275
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.180645
+(only based on init setting) The probability that now he or she is in KITCHEN is  3.35625e-05
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.383008
+(only based on init setting) The probability that now he or she is in PUJAROOM is  9.04872e-10
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.0601717
+(only based on init setting) The probability that now he or she is  P_EATING is  0.120491
+(only based on init setting) The probability that now he or she is  P_OTHERS is  1.25869e-05
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0.785763
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0.0335626
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.00039441
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.506015
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.0123724
+(After Microsoft) The probability that now he or she is in KITCHEN is  7.84805e-06
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.481211
+(After Microsoft) The probability that now he or she is in PUJAROOM is  1.32578e-12
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.0091743
+(After Microsoft) The probability that now he or she is  P_EATING is  0.00320069
+(After Microsoft) The probability that now he or she is  P_OTHERS is  1.84417e-08
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0.987231
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0.00039441
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0
+
+------------Image 1------------ 
+Culture node info:
+Japanese
+
+Time node info:
+NINEPM
+
+Object Nodes Info:
+FURNITURE
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.0645363
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.387218
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.173679
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.129073
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.245491
+(only based on init setting) The probability that now he or she is in PUJAROOM is  3.4799e-06
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.122371
+(only based on init setting) The probability that now he or she is  P_EATING is  0.115844
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.0484057
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0.648843
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0.0645363
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.000146205
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.591681
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.00466482
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.0283901
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.375118
+(After Microsoft) The probability that now he or she is in PUJAROOM is  6.74434e-09
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.00690752
+(After Microsoft) The probability that now he or she is  P_EATING is  0.00140019
+(After Microsoft) The probability that now he or she is  P_OTHERS is  9.38143e-05
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0.991452
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0.000146205
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0
+
+------------Image 2------------ 
+Culture node info:
+Japanese
+
+Time node info:
+NINEPM
+
+Object Nodes Info:
+None
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.162939
+(only based on init setting) The probability that now he or she is  P_EATING is  0.122061
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.0875
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0.4235
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0.204
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.00772764
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.464814
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.015232
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.0701698
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.442029
+(After Microsoft) The probability that now he or she is in PUJAROOM is  2.79811e-05
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.0189672
+(After Microsoft) The probability that now he or she is  P_EATING is  0.00813825
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.000222577
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0.964944
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0.00772764
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0
+
+------------Image 3------------ 
+Culture node info:
+Japanese
+
+Time node info:
+NINEPM
+
+Object Nodes Info:
+FURNITURE
+COUCH
+CHAIR
+TABLE
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  6.18456e-05
+(only based on init setting) The probability that now he or she is in BEDROOM is  3.71074e-07
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.998626
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.000371074
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.000941024
+(only based on init setting) The probability that now he or she is in PUJAROOM is  3.33482e-12
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.332728
+(only based on init setting) The probability that now he or she is  P_EATING is  0.666083
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.000139153
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0.00098778
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  6.18456e-05
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  4.39218e-05
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.000109202
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.709019
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.0138984
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.27693
+(After Microsoft) The probability that now he or she is in PUJAROOM is  1.10372e-12
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.362473
+(After Microsoft) The probability that now he or she is  P_EATING is  0.346748
+(After Microsoft) The probability that now he or she is  P_OTHERS is  4.60553e-05
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0.290689
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  4.39218e-05
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0
+
+------------Image 4------------ 
+Culture node info:
+Japanese
+
+Time node info:
+NINEPM
+
+Object Nodes Info:
+None
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.162939
+(only based on init setting) The probability that now he or she is  P_EATING is  0.122061
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.0875
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0.4235
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0.204
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.00054345
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.474543
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.00683309
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.0667734
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.451281
+(After Microsoft) The probability that now he or she is in PUJAROOM is  2.67368e-05
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.0116128
+(After Microsoft) The probability that now he or she is  P_EATING is  0.00248993
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.000212679
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0.985141
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0.00054345
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0
+
+cook_score:0.409135
+eat_score:0.361977
+others_score:0.000575
+pray_score:0.000000
+read_score:4.219458
+shower_score:0.008856
+sleep_score:0.000000
+
+------------Image 0------------ 
+Culture node info:
+Japanese
+
+Time node info:
+TWELVEAM
+
+Object Nodes Info:
+None
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.079614
+(only based on init setting) The probability that now he or she is  P_EATING is  0.13725
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.172568
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0.140754
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0.204
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0.265814
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.00673329
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.569098
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.00524967
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.00254739
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.416325
+(After Microsoft) The probability that now he or she is in PUJAROOM is  4.62982e-05
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.000335089
+(After Microsoft) The probability that now he or she is  P_EATING is  0.00505711
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.000726325
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0.0283353
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0.00673329
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0.958813
+
+------------Image 1------------ 
+Culture node info:
+Japanese
+
+Time node info:
+TWELVEAM
+
+Object Nodes Info:
+BED
+TEXTILE
+FURNITURE
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  4.16501e-05
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.999605
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.000112088
+(only based on init setting) The probability that now he or she is in KITCHEN is  8.33003e-05
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.000158434
+(only based on init setting) The probability that now he or she is in PUJAROOM is  2.24584e-09
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  4.18498e-05
+(only based on init setting) The probability that now he or she is  P_EATING is  8.40659e-05
+(only based on init setting) The probability that now he or she is  P_OTHERS is  6.59761e-05
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0.239977
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  4.16501e-05
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0.75979
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  4.55386e-07
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.999875
+(After Microsoft) The probability that now he or she is in DININGROOM is  2.82314e-06
+(After Microsoft) The probability that now he or she is in KITCHEN is  3.63961e-07
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.000121284
+(After Microsoft) The probability that now he or she is in PUJAROOM is  3.28294e-12
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  2.13634e-07
+(After Microsoft) The probability that now he or she is  P_EATING is  2.68009e-06
+(After Microsoft) The probability that now he or she is  P_OTHERS is  9.64429e-08
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0.013508
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  4.55386e-07
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0.986489
+
+------------Image 2------------ 
+Culture node info:
+Japanese
+
+Time node info:
+TWELVEAM
+
+Object Nodes Info:
+BED
+MATTRESS
+BEDSHEET
+BEDDING
+TEXTILE
+FURNITURE
+BEDFRAME
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  8.33333e-15
+(only based on init setting) The probability that now he or she is in BEDROOM is  1
+(only based on init setting) The probability that now he or she is in DININGROOM is  2.24265e-14
+(only based on init setting) The probability that now he or she is in KITCHEN is  1.66667e-14
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  3.16994e-14
+(only based on init setting) The probability that now he or she is in PUJAROOM is  4.49346e-19
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  8.37328e-15
+(only based on init setting) The probability that now he or she is  P_EATING is  1.68199e-14
+(only based on init setting) The probability that now he or she is  P_OTHERS is  1.32004e-14
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0.24
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  8.33333e-15
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0.76
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  2.09412e-16
+(After Microsoft) The probability that now he or she is in BEDROOM is  1
+(After Microsoft) The probability that now he or she is in DININGROOM is  9.0682e-16
+(After Microsoft) The probability that now he or she is in KITCHEN is  1.38593e-16
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  2.46768e-14
+(After Microsoft) The probability that now he or she is in PUJAROOM is  6.88277e-22
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  1.26989e-16
+(After Microsoft) The probability that now he or she is  P_EATING is  8.2179e-16
+(After Microsoft) The probability that now he or she is  P_OTHERS is  2.02195e-17
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0.0261993
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  2.09412e-16
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0.973801
+
+------------Image 3------------ 
+Culture node info:
+Japanese
+
+Time node info:
+TWELVEAM
+
+Object Nodes Info:
+None
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.079614
+(only based on init setting) The probability that now he or she is  P_EATING is  0.13725
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.172568
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0.140754
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0.204
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0.265814
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.0127818
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.501902
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.03903
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.0158053
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.430417
+(After Microsoft) The probability that now he or she is in PUJAROOM is  6.3293e-05
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.00498829
+(After Microsoft) The probability that now he or she is  P_EATING is  0.0361635
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.00099294
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0.20952
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0.0127818
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0.735554
+
+------------Image 4------------ 
+Culture node info:
+Japanese
+
+Time node info:
+TWELVEAM
+
+Object Nodes Info:
+None
+
+<<Before Microsoft Finding>>
+Room Node Info:
+(only based on init setting) The probability that now he or she is in BATHROOM is  0.204
+(only based on init setting) The probability that now he or she is in BEDROOM is  0.204
+(only based on init setting) The probability that now he or she is in DININGROOM is  0.183
+(only based on init setting) The probability that now he or she is in KITCHEN is  0.204
+(only based on init setting) The probability that now he or she is in LIVINGROOM is  0.194
+(only based on init setting) The probability that now he or she is in PUJAROOM is  0.011
+
+Activity Node Info:
+(only based on init setting) The probability that now he or she is  P_COOKING is  0.079614
+(only based on init setting) The probability that now he or she is  P_EATING is  0.13725
+(only based on init setting) The probability that now he or she is  P_OTHERS is  0.172568
+(only based on init setting) The probability that now he or she is  P_PRAYING is  0
+(only based on init setting) The probability that now he or she is  P_READING is  0.140754
+(only based on init setting) The probability that now he or she is  P_SHOWERING is  0.204
+(only based on init setting) The probability that now he or she is  P_SLEEPING is  0.265814
+
+<<After Microsoft Finding>>
+Room Node Info:
+(After Microsoft) The probability that now he or she is in BATHROOM is  0.00371474
+(After Microsoft) The probability that now he or she is in BEDROOM is  0.549089
+(After Microsoft) The probability that now he or she is in DININGROOM is  0.00400675
+(After Microsoft) The probability that now he or she is in KITCHEN is  0.00847555
+(After Microsoft) The probability that now he or she is in LIVINGROOM is  0.434664
+(After Microsoft) The probability that now he or she is in PUJAROOM is  4.97351e-05
+
+Activity Node Info:
+(After Microsoft) The probability that now he or she is  P_COOKING is  0.000527621
+(After Microsoft) The probability that now he or she is  P_EATING is  0.00370355
+(After Microsoft) The probability that now he or she is  P_OTHERS is  0.000780243
+(After Microsoft) The probability that now he or she is  P_PRAYING is  0
+(After Microsoft) The probability that now he or she is  P_READING is  0.123548
+(After Microsoft) The probability that now he or she is  P_SHOWERING is  0.00371474
+(After Microsoft) The probability that now he or she is  P_SLEEPING is  0.867726
+
+cook_score:0.005851
+eat_score:0.044927
+others_score:0.002500
+pray_score:0.000000
+read_score:0.401110
+shower_score:0.023230
+sleep_score:4.522382

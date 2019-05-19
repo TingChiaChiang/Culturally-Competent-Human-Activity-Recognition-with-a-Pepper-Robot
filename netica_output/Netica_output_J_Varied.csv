@@ -1,0 +1,21 @@
+Image,Actual Activity,Culture,Time,Room Result(only based on init setting),Activity Result (only based on init setting),Activity Result (Microsoft alone),Final Room Result,Final Activity Result
+Image0,Cooking,Japanese,SIXPM,BATHROOM,P_EATING,Eating,DININGROOM,P_EATING
+Image1,Cooking,Japanese,SIXPM,BATHROOM,P_EATING,Cooking,KITCHEN,P_COOKING
+Image2,Cooking,Japanese,SIXPM,BATHROOM,P_EATING,Cooking,KITCHEN,P_COOKING
+Image3,Cooking,Japanese,SIXPM,BATHROOM,P_EATING,Cooking,KITCHEN,P_COOKING
+Image4,Cooking,Japanese,SIXPM,BATHROOM,P_EATING,Cooking,KITCHEN,P_COOKING
+Image0,Eating,Japanese,TWELVEPM,BATHROOM,P_EATING,Eating,BEDROOM,P_EATING
+Image1,Eating,Japanese,TWELVEPM,BATHROOM,P_EATING,Eating,BEDROOM,P_EATING
+Image2,Eating,Japanese,TWELVEPM,BATHROOM,P_EATING,Eating,BEDROOM,P_EATING
+Image3,Eating,Japanese,TWELVEPM,BATHROOM,P_EATING,Eating,BEDROOM,P_EATING
+Image4,Eating,Japanese,TWELVEPM,BATHROOM,P_EATING,Eating,BEDROOM,P_EATING
+Image0,Reading,Japanese,NINEPM,BEDROOM,P_READING,Reading,BEDROOM,P_READING
+Image1,Reading,Japanese,NINEPM,BEDROOM,P_READING,Reading,BEDROOM,P_READING
+Image2,Reading,Japanese,NINEPM,BATHROOM,P_READING,Reading,BEDROOM,P_READING
+Image3,Reading,Japanese,NINEPM,DININGROOM,P_EATING,Reading,DININGROOM,P_COOKING
+Image4,Reading,Japanese,NINEPM,BATHROOM,P_READING,Reading,BEDROOM,P_READING
+Image0,Sleeping,Japanese,TWELVEAM,BATHROOM,P_SLEEPING,Sleeping,BEDROOM,P_SLEEPING
+Image1,Sleeping,Japanese,TWELVEAM,BEDROOM,P_SLEEPING,Sleeping,BEDROOM,P_SLEEPING
+Image2,Sleeping,Japanese,TWELVEAM,BEDROOM,P_SLEEPING,Sleeping,BEDROOM,P_SLEEPING
+Image3,Sleeping,Japanese,TWELVEAM,BATHROOM,P_SLEEPING,Sleeping,BEDROOM,P_SLEEPING
+Image4,Sleeping,Japanese,TWELVEAM,BATHROOM,P_SLEEPING,Sleeping,BEDROOM,P_SLEEPING
