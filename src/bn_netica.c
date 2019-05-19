@@ -129,7 +129,7 @@ int main (void)
 
 	/*Get and set CPT for Period node*/
 	for (i = 0; i < p_time_state_size; i++) {
-    	// A function to get the probabilities of period states (given time, culture)
+	// A function to get the probabilities of period states (given time, culture)
 		GetPeriodCPT(i, p_SIN_period_cpt);
 		//                                              |                                 Period
 		//                       Gen            Time    |    AFTERNOON  ,    BREAKFASTTIME     DINNERTIME,       EVENING,      LUNCHTIME,      MORNING,      NIGHT
@@ -150,7 +150,7 @@ int main (void)
 	//                     Gen   |   BATHROOM,      BEDROOM,     DININGROOM,     KITCHEN,   LIVINGROOM,      PUJAROOM
 	SetNodeProbs (Room, "Indian",   room_prob[0], room_prob[1], room_prob[2], room_prob[3], room_prob[4], room_prob[5]);
 
-    GetRoomCPT(p_SJP_room_cpt);
+	GetRoomCPT(p_SJP_room_cpt);
 	SetNodeProbs (Room, "Japanese", room_prob[0], room_prob[1], room_prob[2], room_prob[3], room_prob[4], room_prob[5]);
 
 	GetRoomCPT(p_SEN_room_cpt);
@@ -162,17 +162,17 @@ int main (void)
 	//  innter loop : iterate over 6 rooms with iterator j
 	for (i = 0; i < p_object_list_size; i++) {
 		for (j = 0; j < p_room_state_size; j++) {
-			   GetObjectsCPT(i,j, p_SIN_objects_cpt);
-			   //                                                          State
-			   //                          Gen           Room     |   True       False
-			   SetNodeProbs (Object[i], "Indian",   str_room_item, obj_prob, 1.0 - obj_prob);
+			GetObjectsCPT(i,j, p_SIN_objects_cpt);
+			//                                                          State
+			//                          Gen           Room     |   True       False
+			SetNodeProbs (Object[i], "Indian",   str_room_item, obj_prob, 1.0 - obj_prob);
 
-			   GetObjectsCPT(i,j, p_SJP_objects_cpt);
-			   SetNodeProbs (Object[i], "Japanese", str_room_item, obj_prob, 1.0 - obj_prob);
+			GetObjectsCPT(i,j, p_SJP_objects_cpt);
+			SetNodeProbs (Object[i], "Japanese", str_room_item, obj_prob, 1.0 - obj_prob);
 
-			   GetObjectsCPT(i,j, p_SEN_objects_cpt);
-			   SetNodeProbs (Object[i], "English",  str_room_item, obj_prob, 1.0 - obj_prob);
-        }
+			GetObjectsCPT(i,j, p_SEN_objects_cpt);
+			SetNodeProbs (Object[i], "English",  str_room_item, obj_prob, 1.0 - obj_prob);
+		}
 	}
 
 
@@ -186,7 +186,7 @@ int main (void)
 			SetNodeProbs (Activity, str_room_item, "Indian",   str_period_item, activity_prob[0], activity_prob[1], activity_prob[2], activity_prob[3], activity_prob[4], activity_prob[5], activity_prob[6]);
 			// Japanese
 			GetActivityCPT(i,j, p_SJP_activity_cpt);
-            SetNodeProbs (Activity, str_room_item, "Japanese", str_period_item, activity_prob[0], activity_prob[1], activity_prob[2], activity_prob[3], activity_prob[4], activity_prob[5], activity_prob[6]);
+			SetNodeProbs (Activity, str_room_item, "Japanese", str_period_item, activity_prob[0], activity_prob[1], activity_prob[2], activity_prob[3], activity_prob[4], activity_prob[5], activity_prob[6]);
 			// English
 			GetActivityCPT(i,j, p_SEN_activity_cpt);
 			SetNodeProbs (Activity, str_room_item, "English",  str_period_item, activity_prob[0], activity_prob[1], activity_prob[2], activity_prob[3], activity_prob[4], activity_prob[5], activity_prob[6]);
@@ -283,13 +283,13 @@ int main (void)
 			char* act_result_micro;
 
 			// write the index of image
-	        sprintf(str, "Image%d", i);
+			sprintf(str, "Image%d", i);
 			WriteTextToCsv_Comma(fp_csv, file_name_csv, str);
 			sprintf(str, "\n------------Image %d------------ \n", i);
 			WriteTextToTxt(fp_txt, file_name_txt, str);
 
 			// write the actual activity performed
-		    WriteTextToCsv_Comma(fp_csv, file_name_csv, actual_activity);
+			WriteTextToCsv_Comma(fp_csv, file_name_csv, actual_activity);
 
 			/* Enter finiding for culture node */
 			EnterFinding ("Gen", gen_name_ptr, net);
@@ -300,7 +300,7 @@ int main (void)
 			/* Enter finiding for time node */
 			EnterFinding ("Time", hour_name[time_index], net);
 			WriteTextToCsv_Comma(fp_csv, file_name_csv, hour_name[time_index]);
-		    sprintf(str, "\nTime node info:\n%s\n", hour_name[time_index]);
+			sprintf(str, "\nTime node info:\n%s\n", hour_name[time_index]);
 			WriteTextToTxt(fp_txt, file_name_txt, str);
 
 			/* Enter finidings for objects nodes */
@@ -309,26 +309,26 @@ int main (void)
 			CHECK_NULL(google_labels_list_item)
 			google_labels_list_item_size = PyList_Size(google_labels_list_item);
 
-	    	WriteTextToTxt(fp_txt, file_name_txt, "\nObject Nodes Info:\n");
+			WriteTextToTxt(fp_txt, file_name_txt, "\nObject Nodes Info:\n");
 			// google_labels_list_item_size depends the number of labels dectected in this image
 			if (google_labels_list_item_size == 0)
 			WriteTextToTxt(fp_txt, file_name_txt, "None\n");
 
-		    for (j = 0; j < google_labels_list_item_size; j++) {
+			for (j = 0; j < google_labels_list_item_size; j++) {
 				p_one_list_item =  PyList_GetItem(google_labels_list_item, j);
-		        CHECK_NULL(p_one_list_item)
-		        puni_one_list_item =  PyUnicode_AsEncodedString(p_one_list_item, "utf-8","Error!!!");
-		        CHECK_NULL(puni_one_list_item)
+				CHECK_NULL(p_one_list_item)
+				puni_one_list_item =  PyUnicode_AsEncodedString(p_one_list_item, "utf-8","Error!!!");
+				CHECK_NULL(puni_one_list_item)
 				// get the objects returned for this image
-		        one_list_item_string = PyBytes_AS_STRING(puni_one_list_item);
-			    EnterFinding (one_list_item_string, "True", net);
+				one_list_item_string = PyBytes_AS_STRING(puni_one_list_item);
+				EnterFinding (one_list_item_string, "True", net);
 				sprintf(str, "%s\n", one_list_item_string);
 				WriteTextToTxt(fp_txt, file_name_txt, str);
-		    }
+			}
 
-	        // get the belief for room node (find which room is the most possible one)
+			// get the belief for room node (find which room is the most possible one)
 			WriteTextToTxt(fp_txt, file_name_txt, "\n<<Before Microsoft Finding>>\nRoom Node Info:\n");
-		    for (j = 0; j < p_room_state_size; j++) {
+			for (j = 0; j < p_room_state_size; j++) {
 				p_uni_room_item = PyList_GetItem(p_room_state, j);
 				p_byte_room_item = PyUnicode_AsEncodedString(p_uni_room_item, "utf-8","Error!!!");
 				str_room_item = PyBytes_AS_STRING(p_byte_room_item);
@@ -338,7 +338,7 @@ int main (void)
 				if (belief > highest_belief_room_network) {
 					highest_belief_room_network = belief;
 					room_result_network = str_room_item;
-		        }
+				}
 
 				sprintf(str, "(only based on init setting) The probability that now he or she is in %s is  %g\n",str_room_item, belief);
 				WriteTextToTxt(fp_txt, file_name_txt, str);
@@ -349,7 +349,7 @@ int main (void)
 
 			// get the belief for activity node (find which activity is the most possible one)
 			WriteTextToTxt(fp_txt, file_name_txt, "\nActivity Node Info:\n");
-		    for (j = 0; j < p_activity_state_size; j++) {
+			for (j = 0; j < p_activity_state_size; j++) {
 				p_uni_activity_item = PyList_GetItem(p_activity_state, j);
 				p_byte_activity_item = PyUnicode_AsEncodedString(p_uni_activity_item, "utf-8","Error!!!");
 				str_activity_item = PyBytes_AS_STRING(p_byte_activity_item);
@@ -359,7 +359,7 @@ int main (void)
 				if (belief > highest_belief_act_network) {
 					highest_belief_act_network = belief;
 					act_result_network = str_activity_item;
-		        }
+				}
 				sprintf(str, "(only based on init setting) The probability that now he or she is  %s is  %g\n",str_activity_item, belief);
 				WriteTextToTxt(fp_txt, file_name_txt, str);
 			}
@@ -413,7 +413,7 @@ int main (void)
 
 			// get the belief for room node (after microsoft likelihood findings)
 			WriteTextToTxt(fp_txt, file_name_txt, "\n<<After Microsoft Finding>>\nRoom Node Info:\n");
-		    for (j = 0; j < p_room_state_size; j++) {
+			for (j = 0; j < p_room_state_size; j++) {
 				p_uni_room_item = PyList_GetItem(p_room_state, j);
 				p_byte_room_item = PyUnicode_AsEncodedString(p_uni_room_item, "utf-8","Error!!!");
 				str_room_item = PyBytes_AS_STRING(p_byte_room_item);
@@ -423,7 +423,7 @@ int main (void)
 				if (belief > highest_belief_room_micro) {
 					highest_belief_room_micro = belief;
 					room_result_micro = str_room_item;
-		        }
+				}
 				sprintf(str, "(After Microsoft) The probability that now he or she is in %s is  %g\n",str_room_item, belief);
 				WriteTextToTxt(fp_txt, file_name_txt, str);
 			}
@@ -484,7 +484,7 @@ int main (void)
 		sprintf(str, "sleep_score:%f\n", sleep_score);
 		WriteTextToTxt(fp_txt, file_name_txt, str);
 
-}
+	}
 
 
 	// English culture
