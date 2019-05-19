@@ -1,0 +1,52 @@
+../image/E_Images_Sleeping/E_Images_Sleeping_1_1.jpg
+#furniture
+#room
+#bed
+#bedroom
+#hospital
+#floor
+#product
+#mattress
+#flooring
+#house
+!Sleeping
+---Sleeping: 77.19%---Puja_Praying: 3.01%---Reading: 0.33%---Showering: 0.22%---Eating: 0.07%---Cooking: 0.02%
+../image/E_Images_Sleeping/E_Images_Sleeping_1_2.jpg
+#room
+#furniture
+#bedroom
+#property
+#bed
+#floor
+#house
+#product
+#mattress
+#flooring
+!Sleeping
+---Sleeping: 86.64%---Puja_Praying: 2.78%---Reading: 0.32%---Showering: 0.16%---Eating: 0.05%---Cooking: 0.01%
+../image/E_Images_Sleeping/E_Images_Sleeping_1_3.jpg
+#room
+#furniture
+#property
+#bedroom
+#bed
+#product
+#floor
+#mattress
+#hostel
+#hospital
+!Sleeping
+---Sleeping: 85.91%---Puja_Praying: 2.61%---Reading: 1.15%---Showering: 0.36%---Eating: 0.11%---Cooking: 0.03%
+../image/E_Images_Sleeping/E_Images_Sleeping_1_4.jpg
+#room
+#furniture
+#bed
+#product
+#bedroom
+#mattress
+#floor
+#flooring
+#comfort
+#sleep
+!Sleeping
+---Sleeping: 73.48%---Puja_Praying: 1.77%---Reading: 0.74%---Showering: 0.22%---Eating: 0.13%---Cooking: 0.04%
