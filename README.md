@@ -53,3 +53,4 @@ Some important files are:
 
 
 # :page_facing_up: References
+[Chiang, T., Bruno, B., Menicatti, R. et al. Culture as a Sensor? A Novel Perspective on Human Activity Recognition. Int J of Soc Robotics 11, 797–814 (2019)](https://link.springer.com/article/10.1007/s12369-019-00590-3)
